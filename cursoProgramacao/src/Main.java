@@ -22,6 +22,8 @@ public class Main {
 		System.out.printf("%s tem %d anos e ganha R$ %.2f Reais%n", nome, idade, renda);
 		//%s Texto, %d Inteiro, %f Ponto Flutuante, %n ou \n Quebra de Linha
 		
+		
+		
 	}
 
 }
